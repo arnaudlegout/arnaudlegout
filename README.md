@@ -1,16 +1,20 @@
-## Hi there 👋
+## Arnaud Legout
 
-<!--
-**arnaudlegout/arnaudlegout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Directeur de recherche à [Inria](https://www-sop.inria.fr/members/Arnaud.Legout/) (Sophia Antipolis). Je fais de la recherche expérimentale sur les données depuis plus de vingt ans : mesures de réseaux pair-à-pair, analyse du graphe Twitter (500 millions de comptes, 23 milliards de liens), traitement de l'intégralité du graphe des transactions Bitcoin, mesures d'exposition aux ondes radio.
 
-Here are some ideas to get you started:
+Python est mon outil de travail quotidien depuis 2005, avec une attention particulière aux questions de performance et de passage à l'échelle : NumPy, Pandas, Polars, Numba, parallélisme.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Co-créateur en 2014, avec Thierry Parmentelat, du [MOOC Python sur FUN](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/), suivi par plus de 200 000 inscrits.
+
+### En dehors de la recherche
+
+- **[formation.arnaudlegout.fr](https://formation.arnaudlegout.fr/)** — formations intra-entreprise Python data science et calcul haute performance, en français ou en anglais.
+- **[consulting.arnaudlegout.fr](https://consulting.arnaudlegout.fr/)** — conseil indépendant : performance et coût des traitements data, usage des agents IA par les équipes, revue scientifique des analyses.
+
+### Quelques dépôts
+
+- [electrosmart](https://github.com/arnaudlegout/electrosmart) — code source de l'application Android ElectroSmart (mesure de l'exposition aux ondes radio).
+
+### Ailleurs
+
+[Page Inria](https://www-sop.inria.fr/members/Arnaud.Legout/) · [Google Scholar](https://scholar.google.com/citations?user=uGy5lroAAAAJ) · [LinkedIn](https://www.linkedin.com/in/arnaud-legout-866a404/)
