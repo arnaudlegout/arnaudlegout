@@ -17,4 +17,4 @@ Co-créateur en 2014, avec Thierry Parmentelat, du [MOOC Python sur FUN](https:/
 
 ### Ailleurs
 
-[Page Inria](https://www-sop.inria.fr/members/Arnaud.Legout/) · [Google Scholar](https://scholar.google.com/citations?user=uGy5lroAAAAJ) · [LinkedIn](https://www.linkedin.com/in/arnaud-legout-866a404/)
+[Page Inria](https://www-sop.inria.fr/members/Arnaud.Legout/) · [Google Scholar](https://scholar.google.com/citations?user=uGy5lroAAAAJ) · [LinkedIn](https://www.linkedin.com/in/arnaud-legout-866a404/) · [Page Perso](https://arnaudlegout.fr)
