@@ -4,7 +4,7 @@ Directeur de recherche à [Inria](https://www-sop.inria.fr/members/Arnaud.Legout
 
 Python est mon outil de travail quotidien depuis 2005, avec une attention particulière aux questions de performance et de passage à l'échelle : NumPy, Pandas, Polars, Numba, parallélisme.
 
-Co-créateur en 2014, avec Thierry Parmentelat, du [MOOC Python sur FUN](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/), suivi par plus de 200 000 inscrits.
+Co-créateur en 2014, avec Thierry Parmentelat, du [MOOC Python sur FUN](https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/), suivi par plus de 150 000 inscrits.
 
 ### En dehors de la recherche
 
