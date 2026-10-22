@@ -8,8 +8,8 @@ Co-créateur en 2014, avec Thierry Parmentelat, du [MOOC Python sur FUN](https:/
 
 ### En dehors de la recherche
 
-- **[formation.arnaudlegout.fr](https://formation.arnaudlegout.fr/)** — formations intra-entreprise Python data science et calcul haute performance, en français ou en anglais.
-- **[consulting.arnaudlegout.fr](https://consulting.arnaudlegout.fr/)** — conseil indépendant : performance et coût des traitements data, usage des agents IA par les équipes, revue scientifique des analyses.
+- **[arnaudlegout.fr/formation/](https://arnaudlegout.fr/formation/)** — formations intra-entreprise Python data science et calcul haute performance, en français ou en anglais.
+- **[arnaudlegout.fr/consulting/](https://arnaudlegout.fr/consulting/)** — conseil indépendant : performance et coût des traitements data, usage des agents IA par les équipes, revue scientifique des analyses.
 
 ### Quelques dépôts
 
