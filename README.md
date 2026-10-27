@@ -1,6 +1,6 @@
 ## Arnaud Legout
 
-Directeur de recherche à [Inria](https://arnaudlegout/research/) (Sophia Antipolis). Je fais de la recherche expérimentale sur les données depuis plus de vingt ans : mesures de réseaux pair-à-pair, analyse du graphe Twitter (500 millions de comptes, 23 milliards de liens), traitement de l'intégralité du graphe des transactions Bitcoin, mesures d'exposition aux ondes radio.
+Directeur de recherche à [Inria](https://arnaudlegout.fr/research/) (Sophia Antipolis). Je fais de la recherche expérimentale sur les données depuis plus de vingt ans : mesures de réseaux pair-à-pair, analyse du graphe Twitter (500 millions de comptes, 23 milliards de liens), traitement de l'intégralité du graphe des transactions Bitcoin, mesures d'exposition aux ondes radio.
 
 Python est mon outil de travail quotidien depuis 2005, avec une attention particulière aux questions de performance et de passage à l'échelle : NumPy, Pandas, Polars, Numba, parallélisme.
 
@@ -17,4 +17,4 @@ Co-créateur en 2014, avec Thierry Parmentelat, du [MOOC Python sur FUN](https:/
 
 ### Ailleurs
 
-[Page Inria](https://arnaudlegout/research/) · [Google Scholar](https://scholar.google.com/citations?user=uGy5lroAAAAJ) · [LinkedIn](https://www.linkedin.com/in/arnaud-legout-866a404/) · [Page Perso](https://arnaudlegout.fr)
+[Page Inria](https://arnaudlegout.fr/research/) · [Google Scholar](https://scholar.google.com/citations?user=uGy5lroAAAAJ) · [LinkedIn](https://www.linkedin.com/in/arnaud-legout-866a404/) · [Page Perso](https://arnaudlegout.fr)
